@@ -25,7 +25,7 @@ export default function AdminSidebar({ isOpen = false, onClose }: { isOpen?: boo
       <div className="p-6 border-b border-charcoal-800 flex items-center justify-between">
         <Link to="/" className="flex items-center space-x-2">
           <div className="w-10 h-10 bg-wood-600 rounded-lg flex items-center justify-center">
-            <span className="text-white font-display font-bold text-xl">ID</span>
+            <span className="text-white font-display font-bold text-xl">VI</span>
           </div>
           <div>
             <div className="font-display font-semibold text-lg">Admin Panel</div>

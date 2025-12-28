@@ -115,7 +115,7 @@ export default function ServicesPage() {
                       <Card className="bg-beige-50 mb-6">
                         <div className="text-sm text-charcoal-600 mb-1">Starting from</div>
                         <div className="text-2xl font-display font-bold text-wood-700">
-                          {service.starting_price}
+                          {formatPrice(service.starting_price)}
                         </div>
                       </Card>
                     )}

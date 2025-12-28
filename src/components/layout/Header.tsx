@@ -24,7 +24,7 @@ export default function Header() {
         <nav className="flex items-center justify-between py-4">
           <Link to="/" className="flex items-center space-x-2">
             <div className="w-10 h-10 bg-wood-700 rounded-lg flex items-center justify-center">
-              <span className="text-white font-display font-bold text-xl">ID</span>
+              <span className="text-white font-display font-bold text-xl">VI</span>
             </div>
             <div className="hidden sm:block">
               <div className="font-display font-semibold text-xl text-charcoal-900">

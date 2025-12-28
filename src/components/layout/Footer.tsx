@@ -42,7 +42,7 @@ export default function Footer() {
           <div>
             <div className="flex items-center space-x-2 mb-4">
               <div className="w-10 h-10 bg-wood-600 rounded-lg flex items-center justify-center">
-                <span className="text-white font-display font-bold text-xl">ID</span>
+                <span className="text-white font-display font-bold text-xl">VI</span>
               </div>
               <div>
                 <div className="font-display font-semibold text-lg">

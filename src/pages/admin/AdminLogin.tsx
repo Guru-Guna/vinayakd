@@ -83,7 +83,7 @@ export default function AdminLogin() {
       <Container size="sm">
         <div className="text-center mb-8">
           <div className="w-16 h-16 bg-wood-600 rounded-lg flex items-center justify-center mx-auto mb-4">
-            <span className="text-white font-display font-bold text-2xl">ID</span>
+            <span className="text-white font-display font-bold text-2xl">VI</span>
           </div>
           <h1 className="text-3xl font-display font-bold text-white mb-2">Admin Login</h1>
           <p className="text-charcoal-300">Vinayak Interior's & Custom Carpentry</p>
